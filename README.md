@@ -1,2 +1,2 @@
-# minilibc-ASM
-Asm implementation of some functions from the libc
+The asm_minilibc is a duet project whose purpose is to code several C functions (like strlen for example).
+This is one of the most interesting projects I've ever done during my studies : it initiated us to the asm language.
