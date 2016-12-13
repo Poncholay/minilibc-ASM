@@ -1,2 +1,1 @@
-The asm_minilibc is a duet project whose purpose is to code several C functions (like strlen for example).
-This is one of the most interesting projects I've ever done during my studies : it initiated us to the asm language.
+The asm_minilibc is a duet project whose purpose is to recode several C functions in ASM (like strlen for example).
